@@ -1,6 +1,7 @@
 [
   {
-    "package": "webshot2"
+    "package": "webshot2",
+    "oncran": false
   },
   {
     "package": "gtExtras"
