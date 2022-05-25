@@ -13,8 +13,3 @@
 	url = https://github.com/jthomasmock/gtExtras
 	shallow = true
 	registered = true
-[submodule "chromote"]
-	path = chromote
-	url = https://github.com/rstudio/chromote
-	shallow = true
-	registered = false
