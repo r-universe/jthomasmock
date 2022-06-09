@@ -4,6 +4,7 @@
     "oncran": true
   },
   {
-    "package": "gtExtras"
+    "package": "gtExtras",
+    "oncran": false
   }
 ]
