@@ -5,6 +5,6 @@
   },
   {
     "package": "gtExtras",
-    "oncran": false
+    "oncran": true
   }
 ]
