@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/jthomasmock/universe
-	shallow = true
 	branch = HEAD
 [submodule "webshot2"]
 	path = webshot2
 	url = https://github.com/rstudio/webshot2
-	shallow = true
-	registered = true
 [submodule "gtExtras"]
 	path = gtExtras
 	url = https://github.com/jthomasmock/gtExtras
-	shallow = true
-	registered = true
