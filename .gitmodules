@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/jthomasmock/universe
 	branch = HEAD
-[submodule "webshot2"]
-	path = webshot2
-	url = https://github.com/rstudio/webshot2
 [submodule "gtExtras"]
 	path = gtExtras
 	url = https://github.com/jthomasmock/gtExtras
+[submodule "webshot2"]
+	path = webshot2
+	url = https://github.com/rstudio/webshot2
