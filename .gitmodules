@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/jthomasmock/universe
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
 [submodule "gtExtras"]
 	path = gtExtras
-	url = https://github.com/jthomasmock/gtExtras
-[submodule "webshot2"]
-	path = webshot2
-	url = https://github.com/rstudio/webshot2
+	url = https://github.com/jthomasmock/gtextras
